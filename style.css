@@ -1,3 +1,26 @@
 body {
-    background: blue;
+    background: black;
+    color: whitesmoke;
   }
+
+  /*div {
+    width: 40px;
+    height: 40px;
+  }
+  */
+    .image1{
+        height: 300px;
+        border-radius: 50%;
+        border: 12px dotted rgb(77, 87, 87);
+    }
+    .image2{
+        height: 80px;
+        
+        }
+    .image3{
+        height: 100px;
+            
+        }
+
+
+
